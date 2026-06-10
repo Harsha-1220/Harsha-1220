@@ -25,6 +25,6 @@
 
 - LinkedIn: [www.linkedin.com/in/harsha-shrivastava-593912315]
 - Email: [shrivastavaharsha1520@gmail.com]
--        [harshashrivastava871@gmail.com]
+- Email: [harshashrivastava871@gmail.com]
 
 
