@@ -15,6 +15,7 @@
 
 - **Frontend:** HTML, CSS, JavaScript
 - **Tools:** VS Code, Git, GitHub
+- **Skills:** Python, Java, SQL
 
 ### 🚀 Projects
 
