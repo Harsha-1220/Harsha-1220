@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Harsha Shrivastava
 
-<!--
-**Harsha-1220/Harsha-1220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Computer Science Student**
+🚀 *Passionate about Full-Stack development and coding solutions.*
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ☘️ About Me
+
+- 🌱 Computer Science student focusing on problem-solving and modern web tech.
+- 🎨 Love creating beautiful, smooth, and user-friendly web interfaces.
+- 🔗 Interested in learning API integrations and frontend optimization.
+
+### 🛠 Tech Stack
+
+- **Frontend:** HTML, CSS, JavaScript
+- **Tools:** VS Code, Git, GitHub
+
+### 🚀 Projects
+
+- **Application Form**: Basic form.
+- **Chessboard**: Use of CSS Grid to make board.
+
+### 💬 Connect with Me
+
+- LinkedIn: [www.linkedin.com/in/harsha-shrivastava-593912315]
+- Email: [shrivastavaharsha1520@gmail.com]
+-        [harshashrivastava871@gmail.com]
+
+
