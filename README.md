@@ -21,6 +21,7 @@
 
 - **Application Form**: Basic form.
 - **Chessboard**: Use of CSS Grid to make board.
+- **Photography**: Using HTML, CSS.
 
 ### 💬 Connect with Me
 
